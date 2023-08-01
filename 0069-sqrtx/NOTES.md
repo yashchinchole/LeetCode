@@ -1,1 +1,1 @@
-​
+agar perfect square nahi hua to condition handle karni padegi
