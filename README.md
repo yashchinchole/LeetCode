@@ -1,2 +1,2 @@
 # Practice
-Collection of LeetCode and GeeksForGeeks questions to ace the coding interview!
+Collection of LeetCode questions to ace the coding interview!
